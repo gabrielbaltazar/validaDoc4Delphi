@@ -1,0 +1,1 @@
+# validaDoc4Delphi
